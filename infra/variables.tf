@@ -1,5 +1,5 @@
 variable "subscription_id" {
-  description = "Azure subscription ID for this deployment."
+  description = "b1ba787d-4452-4ee4-8e30-ecf54b2c456d"
   type        = string
 }
 
